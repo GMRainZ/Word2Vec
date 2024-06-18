@@ -1,0 +1,3 @@
+D:/rain_programing/machineLearning/word2Vec/build/CMakeFiles/WORD2VEC.dir
+D:/rain_programing/machineLearning/word2Vec/build/CMakeFiles/edit_cache.dir
+D:/rain_programing/machineLearning/word2Vec/build/CMakeFiles/rebuild_cache.dir

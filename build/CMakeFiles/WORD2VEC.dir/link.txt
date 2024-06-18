@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\WORD2VEC.dir/objects.a
+D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\WORD2VEC.dir/objects.a @CMakeFiles\WORD2VEC.dir\objects1.rsp
+D:\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\WORD2VEC.dir/objects.a -Wl,--no-whole-archive -o WORD2VEC.exe -Wl,--out-implib,libWORD2VEC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WORD2VEC.dir\linkLibs.rsp
